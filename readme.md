@@ -11,3 +11,5 @@ day004: how to learn linux; suggestions of bird brother.
 day005: linux disks and modos.
 
 day006: guid.
+
+day007: bois and uefi.
