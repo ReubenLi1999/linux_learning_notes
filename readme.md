@@ -13,3 +13,5 @@ day005: linux disks and modos.
 day006: guid.
 
 day007: bois and uefi.
+
+day008: basic scripts
