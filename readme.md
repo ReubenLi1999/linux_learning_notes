@@ -14,4 +14,6 @@ day006: guid.
 
 day007: bois and uefi.
 
-day008: basic scripts
+day008: basic scripts.
+
+day009: man whatis apropos info systemctl  shutdown.
