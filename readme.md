@@ -17,3 +17,5 @@ day007: bois and uefi.
 day008: basic scripts.
 
 day009: man whatis apropos info systemctl  shutdown.
+
+day010: file right.
