@@ -26,3 +26,5 @@ day012: directory tree.
 
 day013: PATH, cp.
 
+day014: cat, head, more, 
+
