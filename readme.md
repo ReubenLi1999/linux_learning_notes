@@ -20,4 +20,9 @@ day009: man whatis apropos info systemctl  shutdown.
 
 day010: file right.
 
-day011: file and directory
+day011: file and directory.
+
+day012: directory tree.
+
+day013: PATH, cp.
+
