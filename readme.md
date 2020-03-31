@@ -31,3 +31,5 @@ day014: cat, head, more.
 day015: umask, chattr.
 
 day016: suid,sgid, sbit,whereis, locate.
+
+day017: find, review.
