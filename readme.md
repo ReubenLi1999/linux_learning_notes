@@ -35,3 +35,5 @@ day016: suid,sgid, sbit,whereis, locate.
 day017: find, review.
 
 day018: inode, block.
+
+day019: superblock.
