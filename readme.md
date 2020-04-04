@@ -37,3 +37,5 @@ day017: find, review.
 day018: inode, block.
 
 day019: superblock.
+
+day020: directory tree read.
