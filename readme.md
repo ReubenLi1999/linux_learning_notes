@@ -43,3 +43,5 @@ day020: directory tree read.
 day021: inconsitensy, journaling.
 
 day022: mount point, df.
+
+day023: ln, lsblk, blkid.
