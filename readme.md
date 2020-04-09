@@ -45,3 +45,7 @@ day021: inconsitensy, journaling.
 day022: mount point, df.
 
 day023: ln, lsblk, blkid
+
+day024: mount.
+
+day025: mount loop.
