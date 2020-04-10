@@ -49,3 +49,5 @@ day023: ln, lsblk, blkid
 day024: mount.
 
 day025: mount loop.
+
+day026: reivew.
