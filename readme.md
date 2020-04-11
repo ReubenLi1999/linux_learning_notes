@@ -51,3 +51,5 @@ day024: mount.
 day025: mount loop.
 
 day026: reivew.
+
+day027: know vi.
