@@ -55,3 +55,5 @@ day026: reivew.
 day027: know vi.
 
 day028: basic command in vi.
+
+day029: vim exercise.
