@@ -59,3 +59,7 @@ day028: basic command in vi.
 day029: vim exercise.
 
 day030: visual block, multiple windows, multiple files.
+
+day031: shell, kernel.
+
+day032: shell functions, ctrl+u, ctrl+k.
