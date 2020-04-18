@@ -63,3 +63,5 @@ day030: visual block, multiple windows, multiple files.
 day031: shell, kernel.
 
 day032: shell functions, ctrl+u, ctrl+k.
+
+day033: varaible.
