@@ -67,3 +67,5 @@ day032: shell functions, ctrl+u, ctrl+k.
 day033: varaible.
 
 day034: env, set.
+
+day035: locale, declare, read.
