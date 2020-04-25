@@ -69,3 +69,5 @@ day033: varaible.
 day034: env, set.
 
 day035: locale, declare, read.
+
+day036: alias, source, bashrc.
