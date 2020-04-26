@@ -71,3 +71,5 @@ day034: env, set.
 day035: locale, declare, read.
 
 day036: alias, source, bashrc.
+
+day037: shortcuts, stty, wildcards.
