@@ -1,4 +1,4 @@
-Linux Learning notesr
+Linux Learning note
 
 day001: introduction to computers----CPU and DRAM.
 
